@@ -1,7 +1,6 @@
 ![Design preview for KillzBites](./public/desktop.png)
 
-
-*This  was done with core understanding of React and NextJs**
+\*This was done with core understanding of React and NextJs\*\*
 
 Users should be able to:
 
@@ -17,7 +16,7 @@ Font- Family : Josefin Sans And Poppins
 
 Background Color #303032
 
- Red #fe1825
+Red #fe1825
 
 Feedback is always welcome through comments on message me on twitter @50strokesofkim
 
@@ -25,5 +24,4 @@ This is completely free. Please share it with anyone who will find it useful for
 
 Codded by Unyime Emmanuel
 
-
-This is hosted live on https://uny1me.github.io/accordion
+This is hosted live on https://killz-bites.vercel.app
