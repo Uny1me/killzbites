@@ -89,6 +89,7 @@ a {
     padding: 230px 160px;
     background: url("../public/assets/desktop.png") !important;
     background: url("/public/assets/desktop.png") !important;
+    background: url("/public/assets/desktop.png") !important;
   }
   button:hover {
     -webkit-transform: scale(0.95);
