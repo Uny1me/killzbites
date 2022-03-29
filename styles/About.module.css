@@ -1,0 +1,35 @@
+.about {
+  padding: 150px 20px;
+  position: relative;
+}
+
+.about h5 {
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.about p {
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  line-height: 28px;
+}
+
+.imgabs {
+  padding: 0 !important;
+  -webkit-filter: drop-shadow(1.4px 1.4px 1.7px rgba(0, 0, 0, 0.024));
+          filter: drop-shadow(1.4px 1.4px 1.7px rgba(0, 0, 0, 0.024));
+  background: none !important;
+  -o-object-fit: cover !important;
+     object-fit: cover !important;
+}
+
+@media (min-width: 992px) {
+  .about {
+    padding: 100px 160px;
+  }
+  .about h5 {
+    font-size: 40px;
+  }
+}
+/*# sourceMappingURL=About.module.css.map */

@@ -15,9 +15,14 @@
 # production
 /build
 
+#design
+/design
+
 # misc
 .DS_Store
 *.pem
+*.scss
+*.css.map
 
 # debug
 npm-debug.log*
