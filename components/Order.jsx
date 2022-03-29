@@ -8,6 +8,9 @@ export default function Order() {
   return (
     <div
       className={`${styles.about} text-center text-lg-start d-flex bg-order col-12 align-items-lg-start align-items-center flex-column flex-lg-row `}
+      style={{
+        backgroundImage: "url(/image.webp)",
+      }}
     >
       <Col
         xs={9}

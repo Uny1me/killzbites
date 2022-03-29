@@ -39,7 +39,7 @@ a {
 
 .main {
   color: white !important;
-  background: url("../public/mobile.webp") !important;
+  background: url("/mobile.webp") !important;
   padding: 170px 20px;
   background-position: center !important;
   background-size: cover !important;
@@ -86,7 +86,7 @@ a {
   }
   .main {
     padding: 230px 160px;
-    background: url("../public/desktop.png") !important;
+    background: url("/desktop.png") !important;
   }
   button:hover {
     -webkit-transform: scale(0.95);
@@ -101,7 +101,7 @@ a {
 }
 
 .bg-order {
-  background: url("../public/image.webp") !important;
+  /* background: url("../public/image.webp") !important; */
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
